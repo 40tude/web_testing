@@ -49,13 +49,6 @@ Avec du texte
 
 ![](../assets/images/img02.png)
 
-Avec du texte
-
-<p align="center">
-<img src="../assets/images/img02.png" alt="Zoubida" width="400"/>
-<p>
-
-
 
 
 [Lien vers un autre site](https://example.com)  
@@ -65,6 +58,17 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 
 * [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo)
+
+
+
+
+
+Avec du texte
+
+<p align="center">
+<img src="../assets/images/img02.png" alt="Zoubida" width="400"/>
+<p>
+
 
 
 
