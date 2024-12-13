@@ -43,8 +43,18 @@ $$ E = mc^2 $$
 
 ## Exemple d'image ?
 
-![](../../assets/images/img01.png)
-![](../../assets/images/img02.png)
+![](../assets/images/img01.png)
+
+Avec du texte
+
+![](../assets/images/img02.png)
+
+Avec du texte
+
+<p align="center">
+<img src="../assets/images/img02.png" alt="Zoubida" width="400"/>
+<p>
+
 
 
 
