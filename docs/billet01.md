@@ -34,8 +34,8 @@ def on_produce(err: int, msg: Message) -> None:
 ```
 
 ## Exemple de d'équation?
-Dans une ligne $E=mc^2$  
-Dans une équation  
+Dans une ligne $$E=mc^2$$ de texte.      
+Dans une équation :    
 
 $$ E = mc^2 $$
 
