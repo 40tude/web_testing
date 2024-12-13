@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mon Premier Billet"
+math: mathjax
 ---
 
 # Titre 
