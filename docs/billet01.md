@@ -59,3 +59,11 @@ Avec du texte
 
 
 [Lien vers un autre site](https://example.com)
+
+
+
+ [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo)
+
+
+
+ 
