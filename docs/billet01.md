@@ -43,6 +43,9 @@ $$ E = mc^2 $$
 
 ## Exemple d'image ?
 
+![](../../assets/images/image01.png)
+![](../../assets/images/image02.png)
+
 
 
 [Lien vers un autre site](https://example.com)
