@@ -4,7 +4,7 @@ title: "Billet 3/1"
 parent: "Catégorie 03"
 math: mathjax
 date:               2024-12-14 23:00:00 +0000
-last_modified_at:   2024-12-16 14:00:00 +0000
+last_modified_date: 2024-12-16 14:00:00 +0000
 ---
 
 # Billet 3/1 
