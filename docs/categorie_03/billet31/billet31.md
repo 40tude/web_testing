@@ -9,7 +9,7 @@ last_modified_date: 2024-12-16 14:00:00 +0000
 
 # Billet 3/1 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt non nibh sed fringilla. Sed ut placerat mi, nec sodales mauris. Nulla nisl turpis, luctus quis eros consequat, lacinia rhoncus ipsum. Integer vel dolor vitae velit luctus pretium vitae vel lorem. Morbi congue augue ligula, nec gravida odio auctor vitae. Mauris metus nibh, auctor vel nisl id, vehicula tempus lacus. Sed auctor semper tellus at suscipit. Nunc placerat facilisis ipsum non mattis. Morbi porta dictum bibendum. Nunc semper ex sed pharetra tincidunt. Duis sapien quam, fermentum quis condimentum id, facilisis vitae erat. Praesent at purus rhoncus nisi eleifend mattis.
+Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt non nibh sed fringilla. Sed ut placerat mi, nec sodales mauris. Nulla nisl turpis, luctus quis eros consequat, lacinia rhoncus ipsum. Integer vel dolor vitae velit luctus pretium vitae vel lorem. Morbi congue augue ligula, nec gravida odio auctor vitae. Mauris metus nibh, auctor vel nisl id, vehicula tempus lacus. Sed auctor semper tellus at suscipit. Nunc placerat facilisis ipsum non mattis. Morbi porta dictum bibendum. Nunc semper ex sed pharetra tincidunt. Duis sapien quam, fermentum quis condimentum id, facilisis vitae erat. Praesent at purus rhoncus nisi eleifend mattis.
 
 ## Exemple d'image 
 
@@ -29,5 +29,5 @@ Quisque justo urna, egestas non dolor in, auctor euismod mi. Maecenas rutrum pla
 
 ----
 
-[^1]: The [source file for this page] uses all three markup languages.
+[^1]: Une note de bas de page
  
