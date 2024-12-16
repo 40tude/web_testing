@@ -27,4 +27,7 @@ Quisque justo urna, egestas non dolor in, auctor euismod mi. Maecenas rutrum pla
 <img src="./images/img01.png" alt="Zoubida" width="400"/>
 </div>
 
+----
+
+[^1]: The [source file for this page] uses all three markup languages.
  
