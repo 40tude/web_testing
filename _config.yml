@@ -17,3 +17,31 @@ defaults:
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  # - .sass-cache/
+  # - .jekyll-cache/
+  # - node_modules/
+  # - vendor/bundle/
+  # - vendor/cache/
+  # - vendor/gems/
+  # - vendor/ruby/
+  # # specific to the theme website:
+  # - bin/
+  # - lib/
+  # - "*.gemspec"
+  # - "*.gem"
+  # - package.json
+  # - package-lock.json
+  # - Rakefile
+  # - CODE_OF_CONDUCT.md
+  # - docker-compose.yml
+  # - Dockerfile
+  # # theme test code
+  # - fixtures/
